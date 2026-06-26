@@ -101,3 +101,4 @@ flask-product-api/
 - All categories normalized to lowercase for consistent filtering
 - 404 errors return JSON (not HTML) for API consistency
 - Status codes: 200 OK, 404 Not Found used appropriately
+## Virtual Environment: run python3 -m venv venv then source venv/bin/activate
